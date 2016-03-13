@@ -1,4 +1,4 @@
-require 'pry'
+
 
 @lives = {
   'Player 1' => 3, 
